@@ -1,0 +1,8 @@
+.productItem img {
+    width: 200px;
+}
+
+.productItem {
+    border: 1px solid gainsboro;
+    padding: 15px;
+}
